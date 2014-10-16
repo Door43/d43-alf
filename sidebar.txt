@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[alf:home|Door43 (alf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-alf|d43-alf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-alf/archive/master.zip|d43-alf.zip]]
+
+**Recent Changes**
+{{changes>ns = alf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/alf|Ethnologue data]]
+
